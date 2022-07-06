@@ -79,6 +79,7 @@ body {
 #bordercolor {
   color: cadetblue;
   border: 2px solid cadetblue;
+  background-color: rgba(95, 158, 160, 0.205);
 }
 
 #input-tk {
